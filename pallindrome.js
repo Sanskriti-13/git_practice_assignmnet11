@@ -1,4 +1,4 @@
-function checkPalindrome(N, str) {
+
     let a="";
     let b="";
     for(i=0;i<=N-1;i++){
@@ -13,4 +13,4 @@ function checkPalindrome(N, str) {
         console.log("No");
     }
   
-}
+
